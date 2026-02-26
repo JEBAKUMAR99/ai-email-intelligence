@@ -47,9 +47,8 @@ No CRM login credentials are stored by the extension.
 
 ### Access Settings
 
-1. Open a Contact record
-2. Open **AI Email Intelligence** panel
-3. Click **Settings**
+1. Open **AI Email Intelligence Extension** listed under marketplace in settings of zoho crm
+2. Click **Settings**
 
 ### Configure AI Service
 
