@@ -6,6 +6,7 @@ Welcome to the official documentation and legal information page for the AI Emai
 - [Privacy Policy](privacy-policy.html)
 - [Terms of Use](terms-of-use.html)
 - [End User License Agreement (EULA)](eula.html)
+- [Support](support.html)
 
 ## About the Extension
 AI Email Intelligence is a Zoho CRM extension that analyzes emails and provides AI-generated summaries, insights, and suggested replies directly inside Zoho CRM.
