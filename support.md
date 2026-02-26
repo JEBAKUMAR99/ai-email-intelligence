@@ -9,7 +9,7 @@
 
 If you need assistance with installation, configuration, or usage of the extension, please contact our support team.
 
-**Support Email:** [support@yourdomain.com](mailto:support@yourdomain.com)
+**Support Email:** [support@techiesaround.com](mailto:support@techiesaround.com)
 
 Please include the following details when contacting us:
 
