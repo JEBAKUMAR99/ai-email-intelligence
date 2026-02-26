@@ -130,7 +130,7 @@ Continued use of the Extension after changes constitutes acceptance of the revis
 
 For privacy questions or data requests, please contact:
 
-**Support Email:** [support@teciesaround.com](mailto:support@techiesaround.com)
+**Support Email:** [support@techiesaround.com](mailto:support@techiesaround.com)
 **Product:** AI Email Intelligence for Zoho CRM
 
 We will respond within a reasonable time frame.
