@@ -26,7 +26,7 @@
 
 ## 🎬 Product Walkthrough
 
-![AI Email Intelligence Walkthrough](https://raw.githubusercontent.com/JEBAKUMAR99/ai-email-intelligence/blob/main/ai-email-intelligence.gif)
+![AI Email Intelligence Walkthrough](https://raw.githubusercontent.com/JEBAKUMAR99/ai-email-intelligence/main/ai-email-intelligence.gif)
 
 ---
 
