@@ -1,9 +1,11 @@
-🚀 AI Email Intelligence for Zoho CRM — Help & FAQ
+🚀 AI Email Intelligence for Zoho CRM
 
-AI Email Intelligence helps you analyze emails, generate replies, and create actionable tasks instantly inside Zoho CRM.
+Analyze emails, generate replies, and create actionable tasks — instantly inside Zoho CRM.
 
-⚡ Quick Setup
-1. Install the Extension
+AI-powered email tools help reduce manual work and improve communication efficiency by generating summaries, replies, and insights automatically.
+
+⚡ Quick Start
+1️⃣ Install Extension
 
 Go to Setup → Marketplace → All Extensions
 
@@ -11,11 +13,11 @@ Search AI Email Intelligence for Zoho CRM
 
 Click Install → Install for All Users
 
-2. Configure API Key
+2️⃣ Configure API Key
 
 Go to Setup → Marketplace → Installed Extensions
 
-Open AI Email Intelligence for Zoho CRM
+Open AI Email Intelligence
 
 Click Settings
 
@@ -23,24 +25,22 @@ Enter your OpenAI API Key
 
 Click Save
 
-⚠️ API key is required for all AI features
+⚠️ Required to enable all AI features
 
-🎬 Quick Walkthrough
+🎬 Product Walkthrough
 
-📧 How to Use
+📧 How It Works
 Step 1: Open a Record
 
-Navigate to Contacts / Leads / Accounts
+Go to Contacts / Leads / Accounts
 
-Open a record with emails
+Open any record with email history
 
-Step 2: Open AI Widget
+Step 2: Launch AI Widget
 
-Open the record
+Locate AI Email Intelligence widget
 
-Locate AI Email Intelligence widget (right panel or button)
-
-Click to open Smart Email Actions
+Open Smart Email Actions
 
 Step 3: Select Emails
 
@@ -49,39 +49,42 @@ Choose one or more emails from the list
 Step 4: Use AI Features
 ✅ Generate To-Do List
 
-Creates CRM tasks from emails
-
-Click Generate To-Do List
+Convert emails into actionable CRM tasks
+👉 Click Generate To-Do List
 
 ✅ Summarize Emails
 
-Generates concise summaries
-
-Click Summarize Emails
+Get quick summaries of long conversations
+👉 Click Summarize Emails
 
 ✅ Write with AI
 
-Generates email reply drafts
-
-Click Write with AI
+Generate professional email replies
+👉 Click Write with AI
 
 ❓ FAQ
-🔹 What does AI Email Intelligence do?
+🔹 What does this extension do?
 
 It analyzes emails and provides:
 
-Summaries
+Smart summaries
 
-Follow-up tasks
+Suggested replies
 
-AI-generated replies
+Actionable task creation
 
-🔹 Where can I find the extension?
+🔹 Where can I find the widget?
 
-Open a Contact / Lead / Account record and check the widget panel.
+Inside Contact / Lead / Account record view
+
+🔹 Can it send emails automatically?
+
+❌ No
+✔ It generates draft replies only
+✔ Users review before sending
 
 ⚠️ Troubleshooting
-Widget not visible
+🚫 Widget not visible
 
 Refresh Zoho CRM
 
@@ -89,47 +92,57 @@ Reopen the record
 
 Ensure extension is assigned to your profile
 
-Analyze / Action buttons disabled
+🚫 Buttons disabled
 
 API key not configured
 
 No emails in the record
 
-No emails found
+🚫 No emails found
 
-Ensure emails exist in the Emails related list
+Ensure emails exist in Emails related list
 
-No summary or output
+🚫 No output / response
 
-Email should contain content
+Email must contain content
 
 Check internet connection
 
 Try another email
 
-Tasks not created
+🚫 Tasks not created
 
 Click Generate To-Do List
 
-Ensure you have task creation permission
+Ensure task permissions are enabled
 
-🔐 Security & Data
+🔐 Security & Privacy
 
-Data is processed only when actions are triggered
+Data is processed only when triggered
 
 No permanent storage of email content
 
-Access limited to selected record emails
+Access limited to selected CRM record
 
 ⚡ Performance
 
-Typical processing time: 5–20 seconds
+Typical response time: 5–20 seconds
 
 Depends on email length and complexity
 
-📩 Contact Support
+🧩 Requirements
 
-If your issue is not resolved:
+Zoho CRM (with email integration)
+
+Valid OpenAI API Key
+
+User access to:
+
+Contacts / Leads / Accounts
+
+Emails related list
+
+📩 Support
 
 📧 support@techiesaround.com
 
@@ -140,3 +153,29 @@ Zoho Organization ID
 Screenshot
 
 Issue description
+
+💡 Pro Tip
+
+Use Generate To-Do List to automatically convert emails into CRM tasks — saving hours of manual follow-up work.
+
+⭐ Best Practice (Recommended)
+
+For better experience:
+
+Use emails with meaningful content
+
+Select multiple emails for better summaries
+
+Review AI output before sending
+
+✅ Why This Extension Matters
+
+AI in CRM helps:
+
+Reduce manual effort
+
+Improve response time
+
+Increase productivity
+
+Modern AI tools in Zoho ecosystems are designed to automate repetitive email tasks and enhance communication workflows.
