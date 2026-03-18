@@ -80,7 +80,7 @@ It analyzes emails and provides:
 ---
 
 ### 🔹 Where can I find the widget?
-Inside **Contact / Lead / Account record view**
+Inside **Contact record view**
 
 ---
 
