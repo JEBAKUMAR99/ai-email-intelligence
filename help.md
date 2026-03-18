@@ -1,111 +1,142 @@
-# AI Email Intelligence for Zoho CRM — Help & FAQ
+🚀 AI Email Intelligence for Zoho CRM — Help & FAQ
 
-## 1. General Questions
+AI Email Intelligence helps you analyze emails, generate replies, and create actionable tasks instantly inside Zoho CRM.
 
-### What does AI Email Intelligence do?
+⚡ Quick Setup
+1. Install the Extension
 
-The extension analyzes emails inside Zoho CRM records and provides summaries, follow-up actions, and suggested reply drafts.
+Go to Setup → Marketplace → All Extensions
 
-### Where can I find the extension in Zoho CRM?
+Search AI Email Intelligence for Zoho CRM
 
-Open a Contact record and check the right-side panel.
-You will see the **AI Email Intelligence** widget.
+Click Install → Install for All Users
 
----
+2. Configure API Key
 
-## 2. Setup Issues
+Go to Setup → Marketplace → Installed Extensions
 
-### The widget is not visible
+Open AI Email Intelligence for Zoho CRM
 
-Try the following:
+Click Settings
 
-1. Refresh the Zoho CRM page
-2. Reopen the Contact record
-3. Ensure the administrator has assigned the extension to your profile
+Enter your OpenAI API Key
 
----
+Click Save
 
-### The Analyze button is disabled
+⚠️ API key is required for all AI features
 
-Possible reasons:
-• API key not configured
-• No email exists in the record
+🎬 Quick Walkthrough
 
-Contact your CRM administrator to configure the extension settings.
+📧 How to Use
+Step 1: Open a Record
 
----
+Navigate to Contacts / Leads / Accounts
 
-### How do I configure the API key
+Open a record with emails
 
-1. Go to **Settings page of extension**
-2. Enter the API key
-3. Click **Save**
+Step 2: Open AI Widget
 
-(Administrator access may be required.)
+Open the record
 
----
+Locate AI Email Intelligence widget (right panel or button)
 
-## 3. Email Processing
+Click to open Smart Email Actions
 
-### No summary is generated
+Step 3: Select Emails
 
-Check:
-• The email is not empty
-• The email contains sufficient content
-• Internet connection is active
+Choose one or more emails from the list
 
----
+Step 4: Use AI Features
+✅ Generate To-Do List
 
-### Can the extension send emails automatically?
+Creates CRM tasks from emails
 
-No.
-The extension only generates draft responses.
-Users must manually review and send emails.
+Click Generate To-Do List
 
----
+✅ Summarize Emails
 
-### Is my data stored?
+Generates concise summaries
 
-The extension processes email content only when you click analyze.
-Customer email content is not permanently stored.
+Click Summarize Emails
 
----
+✅ Write with AI
 
-## 4. Task Creation
+Generates email reply drafts
 
-### Tasks are not being created
+Click Write with AI
 
-Ensure:
-• You clicked **Create Task**
-• You have permission to create tasks in Zoho CRM
+❓ FAQ
+🔹 What does AI Email Intelligence do?
 
----
+It analyzes emails and provides:
 
-## 5. Performance
+Summaries
 
-### Why does analysis take time?
+Follow-up tasks
 
-AI analysis requires secure processing.
-Typical processing time is 5–20 seconds depending on email length.
+AI-generated replies
 
----
+🔹 Where can I find the extension?
 
-## 6. Security
+Open a Contact / Lead / Account record and check the widget panel.
 
-### Does the extension access all CRM data?
+⚠️ Troubleshooting
+Widget not visible
 
-No.
-The extension only accesses the current record email content required for analysis.
+Refresh Zoho CRM
 
----
+Reopen the record
 
-## 7. Contact Support
+Ensure extension is assigned to your profile
+
+Analyze / Action buttons disabled
+
+API key not configured
+
+No emails in the record
+
+No emails found
+
+Ensure emails exist in the Emails related list
+
+No summary or output
+
+Email should contain content
+
+Check internet connection
+
+Try another email
+
+Tasks not created
+
+Click Generate To-Do List
+
+Ensure you have task creation permission
+
+🔐 Security & Data
+
+Data is processed only when actions are triggered
+
+No permanent storage of email content
+
+Access limited to selected record emails
+
+⚡ Performance
+
+Typical processing time: 5–20 seconds
+
+Depends on email length and complexity
+
+📩 Contact Support
 
 If your issue is not resolved:
 
-**Email:** [support@techiesaround.com](mailto:support@techiesaround.com)
+📧 support@techiesaround.com
 
 Please include:
-• Zoho Organization ID
-• Screenshot
-• Description of the issue
+
+Zoho Organization ID
+
+Screenshot
+
+Issue description
